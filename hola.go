@@ -14,3 +14,6 @@ func main() {
 
 // func declara una función
 //main() es la función especial por donde siempre empieza la ejecución
+
+//fmt.Println() imprime texto en pantalla y añade un salto de línea
+//El texto entre comillas es lo que se mostrará
